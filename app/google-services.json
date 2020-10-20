@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590626190876",
+    "firebase_url": "https://ecommerce-9f094.firebaseio.com",
+    "project_id": "ecommerce-9f094",
+    "storage_bucket": "ecommerce-9f094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590626190876:android:1490063eeaec5d1d7c11d9",
+        "android_client_info": {
+          "package_name": "com.vietis.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590626190876-emulvmds7qebtvijk4closl7hq5s2t8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vietis.ecommerce",
+            "certificate_hash": "fd1f46e40f55f16931eb8c164f7279fc03862553"
+          }
+        },
+        {
+          "client_id": "590626190876-8l0hnehfbiti4b2cucdjscfhvsrh8ibe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYofVwtDDQz-QfygFxUJzhEwPdejaFAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590626190876-8l0hnehfbiti4b2cucdjscfhvsrh8ibe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
